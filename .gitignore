@@ -1,0 +1,8 @@
+# ignore all logs
+*.log
+
+# Big file - Not sure if needed
+/Saved/Autosaves/Game/Planet/Moon/lroc_color_poles_16k_Auto1.uasset
+
+# Big file 
+/Content/Planet/World/LS_PlanetMeshHigh.uasset
